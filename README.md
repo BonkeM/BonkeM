@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BonkeM
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning pythong
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me @ bonkes12@gmail.com
 
